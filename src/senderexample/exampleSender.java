@@ -26,7 +26,7 @@ public class exampleSender {
 	    	                .withFirstName("Shruti")
 	    	                .withLastName("Mukherjee"))
 	    	        .withDocument(DocumentBuilder.newDocumentWithName("document 1")
-	    	        		.fromFile("C:/Users/mukhe/Desktop/document.pdf")
+	    	        		.fromFile("your document path")
 	    	        		.withSignature(SignatureBuilder.signatureFor("shrutimukherjee2020@gmail.com")
 	    	        				.onPage(0)
 	    	        				.atPosition(100, 100)
