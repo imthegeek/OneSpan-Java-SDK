@@ -12,7 +12,7 @@ import com.silanis.esl.sdk.builder.SignerBuilder;
 
 public class exampleSender {
 	
-	public static final String API_KEY = "OG1Nb3VrVFNySk03OnJWVWlRT1llOWpNRg==";
+	public static final String API_KEY = "your key";
 	public static final String API_URL = "https://sandbox.esignlive.com/api";
 	
 	 public static void main(String... args) {
